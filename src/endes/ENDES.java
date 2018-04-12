@@ -21,6 +21,8 @@ public class ENDES {
         //ESCRIBE AQUI TU NOMBRE
         
         System.out.println("Alejandro Juan Esteve");
+        
+        System.out.println("Mi edad es de 18 años");
     }
 
 }
